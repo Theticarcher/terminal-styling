@@ -1,6 +1,6 @@
 {
   "name": "terminal-styling",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A npm package to add some styling to terminal output",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theticarcher38/terminal-colors.git"
+    "url": "git+https://github.com/Theticarcher/terminal-styling.git"
   },
   "keywords": [
     "terminal-styling",
@@ -23,9 +23,9 @@
   "author": "theticarcher38",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/theticarcher38/terminal-colors/issues"
+    "url": "https://github.com/Theticarcher/terminal-styling/issues"
   },
-  "homepage": "https://github.com/theticarcher38/terminal-colors#readme",
+  "homepage": "https://github.com/Theticarcher/terminal-styling/blob/main/README.md",
   "dependencies": {
     "@types/node": "^16.0.0",
     "typescript": "^4.3.5"
