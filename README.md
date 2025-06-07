@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# terminal-styling
-An npm package for better terminal styling
-=======
 # terminal-colors
 
 A npm package to add some styling to terminal output
@@ -39,4 +35,3 @@ console.customColor("00ffff", "Cyan text");
 console.table([{ name: "Alice", age: 25 }, { name: 'Bob', age: 30 }]);
 
 ```
->>>>>>> master
